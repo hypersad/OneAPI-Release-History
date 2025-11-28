@@ -1,4 +1,5 @@
-2022.1
+### 2022.1
+```
 WINDOWS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18418/w_BaseKit_p_2022.1.0.116.exe
 WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18417/w_HPCKit_p_2022.1.0.93.exe
 WINDOWS_IOTKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18416/w_IoTKit_p_2022.1.0.85.exe
@@ -12,8 +13,10 @@ LINUX_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas
 MACOS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18342/m_BaseKit_p_2022.1.0.92.dmg
 MACOS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18341/m_HPCKit_p_2022.1.0.86.dmg
 MACOS_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18352/m_RenderKit_p_2022.1.0.85.dmg
+```
 
-2021.4
+### 2021.4
+```
 WINDOWS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18195/w_BaseKit_p_2021.4.0.3421.exe
 WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18247/w_HPCKit_p_2021.4.0.3340.exe
 WINDOWS_IOTKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18249/w_IoTKit_p_2021.4.0.1411.exe
@@ -27,8 +30,10 @@ LINUX_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas
 MACOS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18256/m_BaseKit_p_2021.4.0.3384.dmg
 MACOS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18242/m_HPCKit_p_2021.4.0.3389.dmg
 MACOS_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/18252/m_RenderKit_p_2021.4.0.805.dmg
+```
 
-2021.3
+### 2021.3
+```
 WINDOWS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17978/w_BaseKit_p_2021.3.0.3221.exe
 WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17940/w_HPCKit_p_2021.3.0.3227.exe
 WINDOWS_IOTKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17934/w_IoTKit_p_2021.3.0.1365.exe
@@ -42,8 +47,10 @@ LINUX_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas
 MACOS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17969/m_BaseKit_p_2021.3.0.3043.dmg
 MACOS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17890/m_HPCKit_p_2021.3.0.3226.dmg
 MACOS_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17903/m_RenderKit_p_2021.3.0.782.dmg
+```
 
-2021.2
+### 2021.2
+```
 WINDOWS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17768/w_BaseKit_p_2021.2.0.2871.exe
 WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17762/w_HPCKit_p_2021.2.0.2901.exe
 WINDOWS_IOTKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17753/w_IoTKit_p_2021.2.0.1296.exe
@@ -57,8 +64,10 @@ LINUX_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas
 MACOS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17714/m_BaseKit_p_2021.2.0.2855.dmg
 MACOS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17643/m_HPCKit_p_2021.2.0.2903.dmg
 MACOS_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17584/m_RenderKit_p_2021.2.0.700.dmg
+```
 
-2021.1
+### 2021.1
+```
 WINDOWS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17453/w_BaseKit_p_2021.1.0.2664.exe
 WINDOWS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17392/w_HPCKit_p_2021.1.0.2682.exe
 WINDOWS_IOTKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17406/w_IoTKit_p_2021.1.0.1220.exe
@@ -72,3 +81,4 @@ LINUX_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas
 MACOS_BASEKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17426/m_BaseKit_p_2021.1.0.2427.dmg
 MACOS_HPCKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17398/m_HPCKit_p_2021.1.0.2681.dmg
 MACOS_RENDERKIT_URL: https://registrationcenter-download.intel.com/akdlm/irc_nas/17444/m_RenderKit_p_2021.1.0.626.dmg
+```
